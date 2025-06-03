@@ -1,7 +1,6 @@
 #  Programación Orientada a Objetos en Java
 
-Este repositorio contiene ejemplos prácticos de Programación Orientada a Objetos (POO) implementados en Java. Su propósito es servir como material de estudio para estudiantes o desarrolladores que deseen comprender los principios fundamentales de la POO aplicados con sintaxis clara y comentada.
-
+Este repositorio contiene ejemplos prácticos de Programación Orientada a Objetos (POO) implementados en Java. 
 ##  Temas Cubiertos
 
 | Concepto                            | Descripción                                                                 |
